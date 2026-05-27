@@ -1,0 +1,6 @@
+{
+  "name": "Screen Automation",
+  "description": "App de automação de tela por reconhecimento de imagem usando OpenCV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

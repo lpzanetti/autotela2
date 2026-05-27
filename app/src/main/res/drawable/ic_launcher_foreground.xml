@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Target Viewfinder (Center crosshair in CyberTeal) -->
+    <path
+        android:strokeColor="#00FFD8"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:pathData="M 54 36 A 18 18 0 1 1 53.99 36 Z" />
+    <path
+        android:strokeColor="#00FFD8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,18 L54,28 M54,80 L54,90 M18,54 L28,54 M80,54 L90,54" />
+
+    <!-- Framing Camera Corner Brackets (CyberCyan) -->
+    <path
+        android:strokeColor="#00D2FF"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M24,34 L24,24 L34,24 M84,34 L84,24 L74,24 M24,74 L24,84 L34,84 M84,74 L84,84 L74,84" />
+
+    <!-- Inner active matching lock point (CyberWarning Red) -->
+    <path
+        android:fillColor="#FF3B30"
+        android:pathData="M54,54 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>

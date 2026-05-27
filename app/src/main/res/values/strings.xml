@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen Automation</string>
+    <string name="accessibility_desc">Serviço de cliques e rolagens automáticas para o bot de visão computacional.</string>
+</resources>
